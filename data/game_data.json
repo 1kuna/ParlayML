@@ -1,0 +1,86 @@
+[
+    {
+        "GameID": 20942,
+        "Season": 2024,
+        "SeasonType": 3,
+        "Status": "InProgress",
+        "Day": "2024-05-23T00:00:00",
+        "DateTime": "2024-05-23T20:00:00",
+        "AwayTeam": "IND",
+        "HomeTeam": "BOS",
+        "AwayTeamID": 13,
+        "HomeTeamID": 9,
+        "StadiumID": 9,
+        "Channel": "ESPN",
+        "Attendance": null,
+        "AwayTeamScore": 44,
+        "HomeTeamScore": 50,
+        "Updated": "2024-05-23T22:27:55",
+        "Quarter": "4",
+        "TimeRemainingMinutes": 3,
+        "TimeRemainingSeconds": 3,
+        "PointSpread": -3.7,
+        "OverUnder": 97.4,
+        "AwayTeamMoneyLine": 129,
+        "HomeTeamMoneyLine": -164,
+        "GlobalGameID": 20020942,
+        "GlobalAwayTeamID": 20000013,
+        "GlobalHomeTeamID": 20000009,
+        "PointSpreadAwayTeamMoneyLine": -46,
+        "PointSpreadHomeTeamMoneyLine": -50,
+        "LastPlay": "Scrambled",
+        "IsClosed": false,
+        "GameEndDateTime": null,
+        "HomeRotationNumber": 239,
+        "AwayRotationNumber": 239,
+        "NeutralVenue": false,
+        "OverPayout": -47,
+        "UnderPayout": -48,
+        "CrewChiefID": 20000044,
+        "UmpireID": 20000002,
+        "RefereeID": 20000054,
+        "AlternateID": 20000041,
+        "DateTimeUTC": "2024-05-24T00:00:00",
+        "InseasonTournament": false,
+        "SeriesInfo": {
+            "HomeTeamWins": 1,
+            "AwayTeamWins": 0,
+            "GameNumber": 2,
+            "MaxLength": 7
+        },
+        "Quarters": [
+            {
+                "QuarterID": 168589,
+                "GameID": 20942,
+                "Number": 1,
+                "Name": "1",
+                "AwayScore": 12,
+                "HomeScore": 11
+            },
+            {
+                "QuarterID": 168590,
+                "GameID": 20942,
+                "Number": 2,
+                "Name": "2",
+                "AwayScore": 10,
+                "HomeScore": 14
+            },
+            {
+                "QuarterID": 168591,
+                "GameID": 20942,
+                "Number": 3,
+                "Name": "3",
+                "AwayScore": 13,
+                "HomeScore": 16
+            },
+            {
+                "QuarterID": 168592,
+                "GameID": 20942,
+                "Number": 4,
+                "Name": "4",
+                "AwayScore": 4,
+                "HomeScore": 4
+            }
+        ]
+    }
+]

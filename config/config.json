@@ -1,0 +1,5 @@
+
+{
+    "INJURY_API_URL": "https://api.sportsdata.io/v3/nba/scores/json/Injuries?key=YOUR_API_KEY",
+    "DB_PATH": "sports_betting.db"
+}
