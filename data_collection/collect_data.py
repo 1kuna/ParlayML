@@ -14,7 +14,7 @@ load_dotenv()
 BASE_DIR = os.getenv('BASE_DIR', '.')  # Use current directory as default
 DB_PATH = os.path.join(BASE_DIR, 'game_ids.db')
 NEW_DB_PATH = os.path.join(BASE_DIR, 'features.db')
-API_KEY = os.getenv('API_KEY')
+API_KEY = os.getenv('SPORTSDATAIO_KEY')
 API_URL = 'https://api.sportsdata.io/v3/nba/scores/json/Games'
 
 if not API_KEY:
